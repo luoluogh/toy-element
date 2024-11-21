@@ -1,5 +1,5 @@
 {
-  "name": "play",
+  "name": "@toy-element/play",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,6 +11,6 @@
   "dependencies": {
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.1.4",
+    "@vitejs/plugin-vue": "^5.1.4"
   }
 }
