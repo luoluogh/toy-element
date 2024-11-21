@@ -3,6 +3,7 @@ import {defineConfig} from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Toy-Element",
+  // 部署目录
   base: '/toy-element/',
   description: "高仿 element",
   themeConfig: {
